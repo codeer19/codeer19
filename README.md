@@ -16,25 +16,31 @@
 <table width="100%" border="0">
   <tr>
     <td width="60%">
-      <h3>👋 About Me</h3>
+      <h2>Hey there! 👋 I'm Aditya.</h2>
+      <p><b>Full-Stack Developer & AI/ML Enthusiast</b></p>
+      
+      <h3>🚀 I'm currently working on:</h3>
       <ul>
-        <li>🔭 I’m currently open to new opportunities and collaborations.</li>
-        <li>🌱 I’m deeply focused on <b>Advanced C++ algorithms</b> and <b>AI/ML applications</b>.</li>
-        <li>💬 Ask me about <b>Python, Angular, TypeScript, and Competitive Programming</b>.</li>
-        <li>📫 How to reach me: <b>[adityaverma19200@gmail.com]</b></li>
+        <li>Advanced <b>C++ algorithms</b> (DP & Greedy) 🏆</li>
+        <li>Building AI/ML applications 🤖</li>
+      </ul>
+
+      <h3>🌱 My Stack:</h3>
+      <ul>
+        <li>Python, TypeScript, C++</li>
+        <li>Angular, React, Node.js</li>
       </ul>
       
-      <h3>Connect with me:</h3>
-      <p align="left">
-        <a href="[Insert LinkedIn URL]">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn"/>
-        </a>
-        <!-- Add more social icons here if needed -->
-      </p>
+      <h3>🎯 Goals for 2026:</h3>
+      <ul>
+        <li>Participate in major hackathons 🚀</li>
+        <li>Build a scalable AI-driven startup 💡</li>
+      </ul>
     </td>
+    
     <td width="40%" align="center">
-      <!-- Note: To use your own illustration, upload an image to your repository and replace the link below with the raw image link -->
-      <img src="https://raw.githubusercontent.com/codeer19/codeer19/main/developer-illustration.png" alt="Developer Illustration" width="300" />
+      <!-- This is a different, highly popular coding animation GIF -->
+      <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Coding Boy Animation" width="350" />
     </td>
   </tr>
 </table>
