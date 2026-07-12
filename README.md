@@ -1,24 +1,103 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFFB&center=true&vCenter=true&width=600&lines=Aditya+Verma;Software+Developer" alt="Aditya Verma" />
-</div>
+<h1 align="center">Hi, I'm Adi 👋</h1>
 
-<br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1500&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Game+Developer;AI+Research+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  </a>
+</p>
 
-### 👋 About Me
-I am a software developer dedicated to building efficient, high-performance applications. I specialize in systems programming, machine learning pipelines, and full-stack architecture. My development philosophy is rooted in clean code, algorithmic optimization, and solving real-world technical problems.
+<p align="center">
+  Computer Science Student • Building Software & Multiplayer Games • Exploring AI
+</p>
 
-<h3>🛠 Technologies</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+---
 
-<h3>🚀 Featured Projects</h3>
+## 🚀 About Me
+
+I'm a Computer Science student who enjoys building software that solves real problems.
+
+Currently I'm focused on:
+
+- 🎮 Developing an HTML5 multiplayer browser game
+- 🤖 Exploring AI and Diffusion Models for procedural level generation
+- ⚡ Competitive Programming (Codeforces, LeetCode & CodeChef)
+- 🏗️ Learning backend systems, distributed systems, and scalable software architecture
+
+I enjoy taking ideas from **"What if..."** to a working product.
+
+---
+
+## 🛠️ Technologies I've Worked With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,react,nodejs,pytorch,mysql,git,html,css,LaTeX&perline=6" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🏙️ UrbanOracle
+
+AI-powered civic infrastructure platform.
+
+---
+
+### 🚦 CIgnal
+
+AI assistant that explains CI/CD failures instantly.
+
+---
+
+### 📦 Sokoban Diffusion Research
+
+Procedural level generation using diffusion models.
+
+---
+
+### 💻 Competitive Programming
+
+ Loves to solve Codeforces, LeetCode, and CodeChef problems.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codeer19&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeer19&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=codeer19&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Build production-quality software
+- Publish an online multiplayer game
+- Contribute to open source
+- Learn distributed systems
+- Reach Candidate Master on Codeforces
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-verma-19681b37b">LinkedIn</a>
+  •
+  <a href="mailto:adityaverma19200@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build things people actually use."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codeer19&style=flat-square" />
+</p>
